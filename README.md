@@ -29,9 +29,8 @@ partially re-implemented the method in R.
 
 ## Authors
 - Nicholas Vannucci
-- [Nome compagno 1]
-- [Nome compagno 2]
-```
+- Bruno Barbieri
+- Fabrizio Furnari
 
 ---
 
